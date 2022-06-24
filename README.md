@@ -965,7 +965,7 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 
 <hr>
 
-### sensenet
+### Sensenet
 
 > A single hub for all your content to manage with a variety of features.  
 
@@ -988,6 +988,19 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Open Source**: No  
 **Type**: Git-based  
 **Supported Site Generators**: Jekyll  
+
+
+<hr>
+
+### Sheetson
+
+> Build Instant APIs from Google Sheets as CMS
+
+**Homepage**: https://sheetson.com/ 
+**Twitter**: [@sheetson](https://twitter.com/sheetson)  
+**Open Source**: No  
+**Type**: API Driven  
+**Supported Site Generators**: All  
 
 
 <hr>
