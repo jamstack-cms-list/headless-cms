@@ -996,7 +996,7 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 
 > Build Instant APIs from Google Sheets as CMS
 
-**Homepage**: https://sheetson.com/ 
+**Homepage**: https://sheetson.com/  
 **Twitter**: [@sheetson](https://twitter.com/sheetson)  
 **Open Source**: No  
 **Type**: API Driven  
