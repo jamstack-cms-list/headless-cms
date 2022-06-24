@@ -9,6 +9,8 @@
 **Supported Site Generators**: Jekyll  
 
 
+<hr>
+
 ### Acoustic Content
 
 > Cloud CMS brought to you by Acoustic  
@@ -18,6 +20,8 @@
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Agility CMS
 
@@ -29,6 +33,8 @@
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Airship CMS
 
@@ -44,6 +50,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Amplience
 
 > Amplience is an API-first, headless content management platform for enterprise retail. Our content and experience solutions for commerce enable teams to do more, better, faster.  
@@ -54,6 +62,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Any JSON CMS
 
@@ -66,6 +76,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Apirocket
 
 > Publish your GraphQL content API in 5 minutes, no coding required.  
@@ -76,6 +88,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### ApostropheCMS
 
@@ -89,6 +103,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Appernetic
 
 > The bridge between the simplicity of static websites and user-friendliness of CMS.  
@@ -100,6 +116,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Hugo  
 
 
+<hr>
+
 ### Aventum
 
 > Aventum is a high-performance, fast, and open-source Headless CMS or you can call it API visual builder, backend visual builder, or Headless CMS visual builder because it is content-agnostic! create your content, no matter how complex it is, and manage it easily!  
@@ -110,6 +128,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### b2evolution CMS
 
@@ -123,6 +143,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### BagelDB
 
 > Build web and mobile apps with a database that feel like headless-CMS. The platform is as flexible as your app needs it to be - whether you need search integration, or CSV export, managing data is a breeze. BagelDB treats everyone on the product team as a first-class citizen.  
@@ -132,6 +154,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Blogody CMS
 
@@ -144,6 +168,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Bloomreach
 
 > Open-source headless CMS without compomising on the authoring experience. No more form-based content management. Powerful APIs to consume from any client like React or Angular.  
@@ -155,6 +181,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### BowTie
 
 > Build fast and lean websites for your clients that don't skimp on features.  
@@ -165,6 +193,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: Jekyll  
 
+
+<hr>
 
 ### Builder.io
 
@@ -178,6 +208,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Butter CMS
 
 > An API-first CMS for rapidly building CMS-powered websites in any programming language.  
@@ -188,6 +220,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### CloudCannon
 
@@ -200,6 +234,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Jekyll ,Hugo ,11ty  
 
 
+<hr>
+
 ### Cloud CMS
 
 > An API-first approach, built around JSON and a high performance cloud architecture.  
@@ -210,6 +246,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Cockpit
 
@@ -223,6 +261,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Coisas
 
 > A client-side CMS for static sites hosted on GitHub.  
@@ -234,6 +274,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Comfortable
 
 > Comfortable is an cloud-based headless CMS, dedicated to simplicity, structure and speed.  
@@ -244,6 +286,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Contenta
 
@@ -257,6 +301,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Contentful
 
 > Contentful is a content management developer platform with an API at its core.  
@@ -267,6 +313,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Contentstack
 
@@ -279,6 +327,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Cosmic
 
 > Headless CMS to power content for any website or app.  
@@ -289,6 +339,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Craft CMS
 
@@ -302,6 +354,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Crownpeak
 
 > The lowest cost to operate, fastest-to-implement CMS. Build scalable, secure, world-class websites and digital experiences in record time.  
@@ -313,6 +367,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Crystallize
 
@@ -326,6 +382,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Daptin
 
 > The headless cms with JSON API, GraphQL, Actions, SMTP, IMAP, FTP, Cloud services sync and more.  
@@ -337,6 +395,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### DatoCMS
 
 > DatoCMS is a friendly, secure and powerful platform that enables marketer, editorial or developer team to build complex backend in minutes and to bring any kind of content everywhere  
@@ -347,6 +407,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Directus
 
@@ -360,6 +422,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### dotCMS
 
 > dotCMS is a cloud-based Hybrid Headless CMS for managing content and content-driven web sites and applications.  
@@ -371,6 +435,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Editlayer
 
@@ -384,6 +450,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Enonic XP
 
 > A headless CMS without limitations, built for the digital team.  
@@ -396,6 +464,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Flamelink
 
 > Flamelink is an easy to use, headless CMS specifically developed to add & manage content in Firebase  
@@ -406,6 +476,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Flextype
 
@@ -419,6 +491,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Flotiq
 
 > Flotiq is an effortless headless Content Management System, offering developers powerful SDKs and integrations.  
@@ -431,6 +505,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Forestry
 
 > A custom Content Manager with a clean, clutter-free UI that commits automatically to your repo.  
@@ -441,6 +517,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Fridge
 
@@ -453,6 +531,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Jekyll  
 
 
+<hr>
+
 ### FrontAid CMS
 
 > FrontAid is a free CMS for JSON files in Git.  
@@ -464,6 +544,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### GatherContent
 
 > GatherContent is a headless Content Operations Platform, helping thousands of organisations around the world to create quality content, in less time, and at scale.  
@@ -474,6 +556,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: Gatsby ,Next ,Other  
 
+
+<hr>
 
 ### Gentics Mesh
 
@@ -487,6 +571,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Ghost
 
 > A fiercely independent platform for professional publishers. Headless Node.js REST API for developers, beautiful Ember.js admin client for editors. Used by Apple, NASA, Sky News, OpenAI & many more.  
@@ -499,6 +585,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Google Drive CMS
 
 > Uses a combination of Google Sheets and Docs to maintain content on a website.  
@@ -509,6 +597,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### GraphCMS
 
@@ -521,6 +611,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Gridly
 
 > The spreadsheet for multi-language content tailor-made for games and digital products. Gridly connects teams, tools, and assets within a familiar spreadsheet view as a single source of truth.  
@@ -531,6 +623,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### HashBrown
 
@@ -543,6 +637,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Headless
 
 > Headless is a CMS designed specifically for static websites.  
@@ -552,6 +648,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### headly.io
 
@@ -564,6 +662,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Hexo Admin
 
 > An Admin Interface for Hexo  
@@ -574,6 +674,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: Hexo  
 
+
+<hr>
 
 ### Jekyll Admin
 
@@ -586,6 +688,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Jekyll  
 
 
+<hr>
+
 ### Kentico Kontent
 
 > Kentico Kontent offers Content as a Service to gain full control over content presentation across all digital channels.  
@@ -596,6 +700,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Keystone
 
@@ -609,6 +715,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### LexasCMS
 
 > An API-based CMS that combines powerful content scheduling capabilities with a clean and modern content editing experience.  
@@ -619,6 +727,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Magnolia
 
@@ -631,6 +741,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### microCMS
 
 > An API-based CMS that specialized for Japanese.  
@@ -642,6 +754,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Mozaik
 
 > Mozaik is a CMS backend with a GraphQL API.  
@@ -652,6 +766,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Netlify CMS
 
@@ -665,6 +781,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### NodeWrite
 
 > Headless content management system supporting multitenancy and white-label workspaces.  
@@ -674,6 +792,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Payload CMS
 
@@ -687,6 +807,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Pimcore
 
 > Pimcore is an API-first, headless open-source content management platform based on PHP/Symfony. It also includes a digital commerce framework.  
@@ -698,6 +820,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Plasmic
 
@@ -711,6 +835,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Gatsby, Next.js  
 
 
+<hr>
+
 ### Ponzu
 
 > Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.  
@@ -723,6 +849,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Prepr
 
 > The Headless CMS with Personalization  
@@ -733,6 +861,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Prismic
 
@@ -745,6 +875,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Prose
 
 > A simple content authoring environment for CMS-free websites.  
@@ -755,6 +887,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: Jekyll  
 
+
+<hr>
 
 ### Publii
 
@@ -767,6 +901,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Built In  
 
 
+<hr>
+
 ### Quintype
 
 > Quintype is the new age, mobile first publishing platform for digital publishers seeking to amplify audiences & revenues.  
@@ -777,6 +913,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Rooftop
 
@@ -790,6 +928,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Spike  
 
 
+<hr>
+
 ### Sanity
 
 > Sanity is the fully customizable, headless CMS.  
@@ -801,6 +941,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Scrivito
 
@@ -814,6 +956,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### sensenet
 
 > A single hub for all your content to manage with a variety of features.  
@@ -826,6 +970,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Siteleaf
 
 > Siteleaf is a content management system designed for a better web.  
@@ -836,6 +982,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: Jekyll  
 
+
+<hr>
 
 ### Slicknode
 
@@ -849,6 +997,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Squidex
 
 > Scalable open source headless cms for developers and content authors.  
@@ -861,6 +1011,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Stastic
 
 > CMS for Jekyll built on top of GitHub and GitHub pages, for your clients to edit the content of Jekyll websites.  
@@ -870,6 +1022,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: Git-based  
 **Supported Site Generators**: Jekyll  
 
+
+<hr>
 
 ### Statamic
 
@@ -883,6 +1037,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Built In  
 
 
+<hr>
+
 ### Storyblok
 
 > Headless & API-based CMS as a Service. Not only a CMS for your editors. Clean and structured JSON for you as developer.  
@@ -893,6 +1049,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Strapi
 
@@ -906,6 +1064,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Superdesk
 
 > Superdesk is an end-to-end, api-driven open source headless CMS for news agencies, newspapers and corporate publishers.  
@@ -918,6 +1078,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### TakeShape
 
 > TakeShape is a GraphQL API-first Content-as-a-Service platform with an integrated Static Content Generator.  
@@ -928,6 +1090,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Tina
 
@@ -941,6 +1105,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: Next  
 
 
+<hr>
+
 ### TriTan CMS
 
 > TriTan CMS is a developer centric, headless, or nearly headless CMS.  
@@ -953,6 +1119,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Troglio
 
 > Turn Trello into a CMS  
@@ -964,6 +1132,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Typewriter
 
 > Typewriter is a simple yet flexible headless CMS that works with any platform you want to use.  
@@ -974,6 +1144,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Umbraco Heartcore
 
@@ -987,6 +1159,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### unite cms
 
 > Really flexible headless CMS, built on top of Symfony and GraphQL.  
@@ -998,6 +1172,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Versioned
 
 > Versioned is an open source CMS API and admin UI based on Node.js/MongoDB/Vue.js  
@@ -1008,6 +1184,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Type**: API Driven  
 **Supported Site Generators**: All  
 
+
+<hr>
 
 ### Webiny
 
@@ -1021,6 +1199,8 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Supported Site Generators**: All  
 
 
+<hr>
+
 ### Zesty.io
 
 > Zesty.io is a hybrid CMS that allows you to generate content APIs, custom endpoints, and more!  
@@ -1030,5 +1210,4 @@ Use Airship templating (based on handlebars) for classic server rendering or use
 **Open Source**: No  
 **Type**: API Driven  
 **Supported Site Generators**: All  
-
 
