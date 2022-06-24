@@ -1,3 +1,10 @@
+# A List of Headless Content Management Systems.
+
+A headless Content Management System, or headless CMS, is a back-end-only content management system that acts primarily as a content repository. A headless CMS makes content accessible via an API for display on any device without a built-in, front-end or presentation layer. The term “headless” comes from the concept of chopping the “head” (the front end) off the “body” (the back end).
+<hr>
+
+<br>
+
 ### AbeCMS
 
 > The lightning fast CMS. Turn any static website into a powerful CMS in seconds..  
